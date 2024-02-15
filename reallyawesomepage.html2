@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+	<body>
+
+
+
+<style>
+	body{
+		background:  darkblue;
+	}
+	h1{
+		font-family: comic sans ms;
+	}
+	#nav{
+		background: yellow;
+		width:250px;
+		padding: 15px;
+		color: black;
+		font-family: comic sans ms;
+		font-size: 20px;
+	}
+	#nav a{
+		color: red;
+	}
+	#nav a:hover{
+		color: limegreen;
+	}
+
+</style>
+
+		<h1>
+			<span style="color:red;">Hello!</span> <span style="color:green;">Welcome to the</span> <span style="color:yellow;">Most awesome page</span> <span style="color:deeppink;">you will ever visit!!!!</span>
+		</h1>
+
+			<img src="https://wallpapers.com/images/hd/cool-picture-art-of-lion-rlst9ftvz1dvvn37.jpg" width="1300px" height="auto"/>
+
+			<img src="images/Scan copy.jpeg" width="800px" height="auto"/>
+
+
+<h4 id="nav"> Visit my other <a href="index.html" target="_blank">cool page!</a> </h4>
+	</body>
+
+
+</html>

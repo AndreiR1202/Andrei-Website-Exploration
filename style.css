@@ -1,0 +1,93 @@
+
+@font-face{
+	font-family:PicNic;
+	src: url(font/PicNic-Regular.woff);
+}
+@font-face{
+	font-family: VCRmono;
+	src: url(font/VCR-OSD-MONO.woff);
+}
+
+body{
+	background: rgba(14, 2, 100, 0.5);
+	color: rgba(255, 255, 255, 1.0);
+	margin:100px;
+}
+
+
+	}
+p{
+	font-family:arial;
+	width: 500px;
+
+}
+
+#twenty-century{
+	font-size:90pt;
+	color:rgba(100, 0, 0, 1.0);
+}
+
+#twentyfirst-Century{
+	font-size:100pt;
+}
+
+.green-paragraph{
+	color:rgba(0, 255, 0, 1.0);
+
+}
+
+.image-shadow{
+filter: drop-shadow(3px 3px 2px rgba(0, 0, 0, 0.5)); /* shadow is created with class*/
+}
+					
+a{
+	color: deeppink;
+}
+
+a:visited{
+	color: lightskyblue;
+}
+a:hover{
+	color: black;
+}
+
+h1{
+	color: blueviolet;
+	font-family:PicNic;
+	font-size: 50pt;
+
+	}
+}
+h2{
+	font-family: VCRmono;
+	color: darkorange;
+}
+h3{
+	font-family: impact;
+	color: seagreen;
+}
+					
+li{
+	font-family: Arial;
+}
+
+/* button */ 
+	#nav{
+		background: yellow;
+		width:250px;
+		padding: 15px; /*space around the inside of the block*/
+		color: black;
+		font-family: comic sans ms;
+		font-size: 20px;
+		height: 60px;
+		margin:50px; /*space around the oustide of the block*/
+		border-bottom: dashed black 10pt;
+	}
+	#nav a{
+		color: red;
+	}
+	#nav a:hover{
+		color: limegreen;
+	}
+	
+
